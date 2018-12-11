@@ -1,0 +1,1 @@
+# intel_sgx_local_attestation_with_cmake
